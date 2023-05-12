@@ -1,6 +1,6 @@
 {
   "name": "@ioby/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "BrianLiu‘s home page",
   "keywords": [
     "ioby",
@@ -23,7 +23,5 @@
   "scripts": {
     "test": "node ./__tests__/core.test.js",
     "dev": "node ./lib/core"
-  },
-  "dependencies": {
   }
 }
